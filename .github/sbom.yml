@@ -1,3 +1,2 @@
-- name: Sbt Dependency Submission
-  uses: scalacenter/sbt-dependency-submission@v2.2.0
-#rahi
+- name: sbt-dependency-check
+  uses: albuch/sbt-dependency-check-action@v1.0
